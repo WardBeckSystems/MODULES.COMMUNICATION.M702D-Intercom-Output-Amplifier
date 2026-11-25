@@ -1,0 +1,105 @@
+{
+ "code": "M702D",
+ "connector": "RTO-144",
+ "type": "Intercom Output Amplifier",
+ "series": null,
+ "contacts": "21 contacts",
+ "verified": null,
+ "derived": true,
+ "variant_of": null,
+ "pins": [
+  {
+   "pin": "13",
+   "signal": "POWERED BY A +32 VOLT DC UNREGULATED",
+   "kind": "power",
+   "pair": null,
+   "polarity": null,
+   "confidence": "medium",
+   "read_from": "prose",
+   "file": "Modules/COMMUNICATION/M702D/MANUALS/1996 - M702D - file.wpd",
+   "page": 1
+  },
+  {
+   "pin": "21",
+   "signal": "ITS OUTPUT",
+   "kind": "out",
+   "pair": null,
+   "polarity": null,
+   "confidence": "medium",
+   "read_from": "prose",
+   "file": "Modules/COMMUNICATION/M702D/MANUALS/1996 - M702D - file.wpd",
+   "page": 1
+  },
+  {
+   "pin": "P",
+   "signal": "POWERED BY A +32 VOLT DC UNREGULATED",
+   "kind": "power",
+   "pair": null,
+   "polarity": null,
+   "confidence": "medium",
+   "read_from": "prose",
+   "file": "Modules/COMMUNICATION/M702D/MANUALS/1996 - M702D - file.wpd",
+   "page": 1
+  },
+  {
+   "pin": "U",
+   "signal": "INPUT",
+   "kind": "in",
+   "pair": null,
+   "polarity": null,
+   "confidence": "medium",
+   "read_from": "prose",
+   "file": "Modules/COMMUNICATION/M702D/MANUALS/1996 - M702D - file.wpd",
+   "page": 1
+  },
+  {
+   "pin": "V",
+   "signal": "INPUT",
+   "kind": "in",
+   "pair": null,
+   "polarity": null,
+   "confidence": "medium",
+   "read_from": "prose",
+   "file": "Modules/COMMUNICATION/M702D/MANUALS/1996 - M702D - file.wpd",
+   "page": 1
+  },
+  {
+   "pin": "W",
+   "signal": "600 OHM OUTPUT",
+   "kind": "out",
+   "pair": null,
+   "polarity": null,
+   "confidence": "medium",
+   "read_from": "prose",
+   "file": "Modules/COMMUNICATION/M702D/MANUALS/1996 - M702D - file.wpd",
+   "page": 1
+  },
+  {
+   "pin": "X",
+   "signal": "600 OHM OUTPUT",
+   "kind": "out",
+   "pair": null,
+   "polarity": null,
+   "confidence": "medium",
+   "read_from": "prose",
+   "file": "Modules/COMMUNICATION/M702D/MANUALS/1996 - M702D - file.wpd",
+   "page": 1
+  },
+  {
+   "pin": "Y",
+   "signal": "ITS OUTPUT",
+   "kind": "out",
+   "pair": null,
+   "polarity": null,
+   "confidence": "medium",
+   "read_from": "prose",
+   "file": "Modules/COMMUNICATION/M702D/MANUALS/1996 - M702D - file.wpd",
+   "page": 1
+  }
+ ],
+ "straps": [],
+ "power": [],
+ "sources": [
+  "Modules/COMMUNICATION/M702D/MANUALS/1996 - M702D - file.wpd"
+ ]
+}
