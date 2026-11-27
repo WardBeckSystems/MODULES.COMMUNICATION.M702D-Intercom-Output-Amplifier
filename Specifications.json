@@ -1,0 +1,357 @@
+{
+ "module": "M702D",
+ "title": "M702D INTERCOM OUTPUT AMPLIFIER",
+ "source": {
+  "file": "MANUALS/1996 - M702D - file.wpd",
+  "page": 1
+ },
+ "ocr_quality": 1.0,
+ "read": "OCR of the technical data sheet; usual OCR slips put right, the rest as read: check against the page",
+ "specifications": [
+  {
+   "name": "Gain",
+   "key": "gain",
+   "text": "(Bridging)"
+  },
+  {
+   "name": "Speaker output",
+   "key": "speaker_output",
+   "text": "+27 dB to +7 dB, ±1 dB.",
+   "quantities": [
+    {
+     "value": 27,
+     "unit": "dB"
+    },
+    {
+     "value": 7,
+     "unit": "dB"
+    },
+    {
+     "value": 1,
+     "unit": "dB",
+     "tolerance": true
+    }
+   ]
+  },
+  {
+   "name": "To line output",
+   "key": "to_line_output",
+   "text": "+15 dB to -5 dB, ±1 dB.",
+   "quantities": [
+    {
+     "value": 15,
+     "unit": "dB"
+    },
+    {
+     "value": -5,
+     "unit": "dB"
+    },
+    {
+     "value": 1,
+     "unit": "dB",
+     "tolerance": true
+    }
+   ]
+  },
+  {
+   "name": "Frequency response",
+   "key": "frequency_response",
+   "text": "±1 dB from 100 Hz to 5 kHz.",
+   "quantities": [
+    {
+     "value": 1,
+     "unit": "dB",
+     "tolerance": true
+    },
+    {
+     "value": 100,
+     "unit": "Hz"
+    },
+    {
+     "value": 5,
+     "unit": "kHz"
+    }
+   ]
+  },
+  {
+   "name": "Noise",
+   "key": "noise",
+   "text": "Better than 80 dB below 1.5 watts or +18 dBm (gain set to unity for line output or +17 dBm for speaker output), 20 Hz to 20 kHz bandwidth.",
+   "quantities": [
+    {
+     "value": 80,
+     "unit": "dB"
+    },
+    {
+     "value": 1.5,
+     "unit": "watts"
+    },
+    {
+     "value": 18,
+     "unit": "dBm"
+    },
+    {
+     "value": 17,
+     "unit": "dBm"
+    },
+    {
+     "value": 20,
+     "unit": "Hz"
+    },
+    {
+     "value": 20,
+     "unit": "kHz"
+    }
+   ]
+  },
+  {
+   "name": "Harmonic distortion",
+   "key": "harmonic_distortion",
+   "text": "Less than 1% from 100 Hz to 5 kHz at +18 dBm output (balanced, or 1.5 watts)",
+   "quantities": [
+    {
+     "value": 1,
+     "unit": "%"
+    },
+    {
+     "value": 100,
+     "unit": "Hz"
+    },
+    {
+     "value": 5,
+     "unit": "kHz"
+    },
+    {
+     "value": 18,
+     "unit": "dBm"
+    },
+    {
+     "value": 1.5,
+     "unit": "watts"
+    }
+   ]
+  },
+  {
+   "name": "Input level",
+   "key": "input_level",
+   "text": "+8 dBm nominal, +19 dBm maximum.",
+   "quantities": [
+    {
+     "value": 8,
+     "unit": "dBm"
+    },
+    {
+     "value": 19,
+     "unit": "dBm"
+    }
+   ]
+  },
+  {
+   "name": "Input impedance",
+   "key": "input_impedance",
+   "text": "10K ohms balanced and centre tapped."
+  },
+  {
+   "name": "Source impedance",
+   "key": "source_impedance",
+   "text": "600 ohms or less, balanced.",
+   "quantities": [
+    {
+     "value": 600,
+     "unit": "ohms"
+    }
+   ]
+  },
+  {
+   "name": "Output levels",
+   "key": "output_level",
+   "text": "",
+   "items": [
+    {
+     "name": "Line",
+     "text": "+8 dBm nominal, +22 dBm maximum.",
+     "quantities": [
+      {
+       "value": 8,
+       "unit": "dBm"
+      },
+      {
+       "value": 22,
+       "unit": "dBm"
+      }
+     ],
+     "key": "line"
+    },
+    {
+     "name": "Speaker",
+     "text": "300 mW nominal, 3 watts peak power.",
+     "quantities": [
+      {
+       "value": 3,
+       "unit": "watts"
+      }
+     ],
+     "key": "speaker"
+    }
+   ]
+  },
+  {
+   "name": "Output impedance",
+   "key": "output_impedance",
+   "text": "",
+   "items": [
+    {
+     "name": "Line",
+     "text": "Less than 30 ohms, balanced.",
+     "quantities": [
+      {
+       "value": 30,
+       "unit": "ohms"
+      }
+     ],
+     "key": "line"
+    },
+    {
+     "name": "Speaker",
+     "text": "Less than 1 ohm, unbalanced.",
+     "quantities": [
+      {
+       "value": 1,
+       "unit": "ohm"
+      }
+     ],
+     "key": "speaker"
+    }
+   ]
+  },
+  {
+   "name": "Load impedance",
+   "key": "load_impedance",
+   "text": "",
+   "items": [
+    {
+     "name": "Line",
+     "text": "600 ohms or greater, balanced.",
+     "quantities": [
+      {
+       "value": 600,
+       "unit": "ohms"
+      }
+     ],
+     "key": "line"
+    },
+    {
+     "name": "Speaker",
+     "text": "8 ohms, nominal.",
+     "quantities": [
+      {
+       "value": 8,
+       "unit": "ohms"
+      }
+     ],
+     "key": "speaker"
+    },
+    {
+     "name": "Mounting",
+     "text": "",
+     "quantities": [],
+     "key": "mounting"
+    },
+    {
+     "name": "Full",
+     "text": "100 dB down.",
+     "quantities": [
+      {
+       "value": 100,
+       "unit": "dB"
+      }
+     ],
+     "key": "full"
+    },
+    {
+     "name": "Part",
+     "text": "6 dB to 24 dB down.",
+     "quantities": [
+      {
+       "value": 6,
+       "unit": "dB"
+      },
+      {
+       "value": 24,
+       "unit": "dB"
+      }
+     ],
+     "key": "part"
+    },
+    {
+     "name": "Override",
+     "text": "Full output.",
+     "quantities": [],
+     "key": "override"
+    }
+   ]
+  },
+  {
+   "name": "Power requirements",
+   "key": "power_requirement",
+   "text": "+32 volts DC unregulated. 45 mA idle, 350 mA maximum at 1.5 watts.",
+   "quantities": [
+    {
+     "value": 32,
+     "unit": "volts DC"
+    },
+    {
+     "value": 45,
+     "unit": "mA"
+    },
+    {
+     "value": 350,
+     "unit": "mA"
+    },
+    {
+     "value": 1.5,
+     "unit": "watts"
+    }
+   ]
+  },
+  {
+   "name": "Ambient temperature",
+   "key": "ambient_temperature",
+   "text": "0 to 40 degrees Celsius.",
+   "quantities": [
+    {
+     "from": 0,
+     "to": 40,
+     "unit": "degrees Celsius"
+    }
+   ]
+  },
+  {
+   "name": "Dimensions",
+   "key": "dimensions",
+   "text": "0.7\" wide x 4.4\" high x 11.0 deep. (18 mm x 112 mm x 280 mm).",
+   "quantities": [
+    {
+     "value": 0.7,
+     "unit": "\""
+    },
+    {
+     "value": 4.4,
+     "unit": "\""
+    },
+    {
+     "value": 18,
+     "unit": "mm"
+    },
+    {
+     "value": 112,
+     "unit": "mm"
+    },
+    {
+     "value": 280,
+     "unit": "mm"
+    }
+   ]
+  }
+ ]
+}
