@@ -1,6 +1,6 @@
 # M702D Intercom Output Amplifier · Communication
 
-Ward-Beck Systems M702D, 1996|29. Wiki page: [M702D on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M702D.html)
+Ward-Beck Systems M702D, 1996|29. Wiki page: [M702D on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.COMMUNICATION.M702D-Intercom-Output-Amplifier/)
 
 | Folder | What is in it | Files |
 |---|---|---|
